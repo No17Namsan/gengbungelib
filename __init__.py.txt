@@ -1,1 +1,1 @@
-from .GenGLoLPlayer import *
+from .GenGLoLPlayer
