@@ -1,1 +1,1 @@
-from .GenGLoLPlayer
+from GenGLoLPlayer
